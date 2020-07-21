@@ -40,7 +40,7 @@ This sample is a Windows WPF application to demonstrate the use of Speech-to-Tex
 
 ### Run the sample
 
-Before running the sample, you must first have a [subscription key](https://azure.microsoft.com/try/cognitive-services/). You can get free trial subscription keys from the [Cognitive Services Subscription](https://azure.microsoft.com/try/cognitive-services/) page. After you select the Speech API, click Get API Key to get the key. It returns a primary and secondary key. Both keys are tied to the same quota, so you may use either key.
+Before running the sample, you must first have a [subscription key](https://azure.microsoft.com/try/cognitive-services/). [Create a new Azure account, and try Cognitive Services for free.](https://azure.microsoft.com/free/cognitive-services/) After you select the Speech API, click Get API Key to get the key. It returns a primary and secondary key. Both keys are tied to the same quota, so you may use either key.
 
 Paste your subscription key to the text edit box saying "Paste your subscription key here to start" on the top right corner. You can choose to persist your subscription key in your machine by clicking "Save Key" button. When you want to delete the subscription key from the machine, click "Delete Key" to remove it from your machine.
 
